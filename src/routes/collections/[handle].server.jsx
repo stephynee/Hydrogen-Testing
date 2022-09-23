@@ -7,7 +7,7 @@ import {
   Seo,
 } from "@shopify/hydrogen";
 
-import Layout from "../../components/Layout.server";
+import { Layout } from "../../components/Layout.server";
 import ProductCard from "../../components/ProductCard.server";
 import { Suspense } from "react";
 
